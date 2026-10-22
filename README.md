@@ -1,1 +1,1 @@
-# simple-rnn-sentiment-analysis
+# rnn-movie-review-classifier
